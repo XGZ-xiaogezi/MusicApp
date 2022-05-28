@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidTools/program/Music/app/src/main/res/layout/login.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidTools/program/Music/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2205" />
+        <entry key="..\:/AndroidTools/program/Music/app/src/main/res/drawable/buttonstyle.xml" value="0.2265" />
+        <entry key="..\:/AndroidTools/program/Music/app/src/main/res/layout/buttonstyle.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidTools/program/Music/app/src/main/res/layout/login.xml" value="0.264" />
+        <entry key="..\:/AndroidTools/program/Music/app/src/main/res/layout/registerbuttonstyle.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>

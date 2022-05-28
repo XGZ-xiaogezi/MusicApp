@@ -1,10 +1,9 @@
-package com.thundersoft.music.Activity;
+package com.thundersoft.music;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.thundersoft.music.R;
 
 public class LoginActivity extends AppCompatActivity {
 
