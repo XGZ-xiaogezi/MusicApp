@@ -54,7 +54,7 @@
             android:layout_gravity="center"
             android:layout_marginRight="50dp"
             android:layout_marginLeft="50dp"
-            android:textColor="#9F9FA0"
+            android:textColor="#303133"
             android:textColorHint="#303133"
             android:hint="输入用户名"
             android:id="@+id/username"/>
@@ -69,17 +69,19 @@
             android:layout_marginBottom="5dp"></View>
 
         <EditText
+            android:id="@+id/password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@null"
             android:layout_gravity="center"
-            android:hint="输入密码"
-            android:textColor="#9F9FA0"
-            android:inputType="textPassword"
-            android:textColorHint="#303133"
             android:layout_marginLeft="50dp"
             android:layout_marginRight="50dp"
-            android:id="@+id/password"/>
+            android:background="@null"
+            android:hint="输入密码"
+            android:layout_marginTop="20dp"
+            android:inputType="textPassword"
+            android:textColor="#303133"
+            android:textColorHint="#303133" />
+
         <View
             android:layout_width="match_parent"
             android:layout_height="1dip"
