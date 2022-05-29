@@ -118,7 +118,8 @@
             android:layout_marginRight="10dp"
             android:layout_weight="1"
             android:background="@drawable/registerbuttonstyle"
-            android:text="注册"/>
+            android:text="去注册"
+            android:id="@+id/toregister"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -126,6 +127,7 @@
             android:layout_marginLeft="10dp"
             android:background="@drawable/loginbuttonstyle"
             android:layout_weight="1"
-            android:text="登录"/>
+            android:text="登录"
+            android:id="@+id/login"/>
     </LinearLayout>
 </LinearLayout>
